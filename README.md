@@ -25,7 +25,7 @@
 
 gif 시연 내용 추가
 
-![TODO:IMAGE NAME](TODO:IMAGE URL)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/104156381/213342062-ce57dd50-c3b8-42aa-87fc-619c04595792.gif)
 
 ---
 
@@ -35,7 +35,7 @@ gif 시연 내용 추가
 - styled-components: 5.3.6
 - axios: 1.2.2
 - typescript: 4.9.3
-- redux: TODO:VERSION
+- redux: 7.2.8
 
 ## 🤔 실행방법
 
@@ -79,15 +79,15 @@ npm start // dev server 실행
 
 > 내용이 방대하여 추가적인 링크로 전달드립니다.
 
-- [류지창 Trouble Shooting Log](https://www.notion.so/b53badc75edb4edc81c5990cb135efd0)
-- [박준하 Trouble Shooting Log](https://www.notion.so/5dbd0179028240898238e0c8560a4f28)
-- [유제원 Trouble Shooting Log](https://www.notion.so/a6c2121234814972b86bf8ff71ba2c80)
+- [류지창 Trouble Shooting Log](https://www.notion.so/joonhabaak/dbde9475018940208df552e974d54574)
+- [박준하 Trouble Shooting Log](https://www.notion.so/joonhabaak/8a1e02323da44751835746e26587f736)
+- [유제원 Trouble Shooting Log](https://www.notion.so/joonhabaak/94be49e1297e46ed91f0581e52739a65)
 
 ## 👍 Best Practice
 
-Best Practice는 [TODO:인물](TODO:인물URL)님의 코드를 선정했습니다.
+Best Practice는 영일님의 코드를 선정했습니다.
 
-TODO:인물님의 코드의 특별한 점을 아래에 사항에 설명드리겠습니다.
+영일님의 코드의 특별한 점을 아래에 사항에 설명드리겠습니다.
 
 ### 1. 페이지네이션
 
