@@ -23,8 +23,6 @@
 
 ## 🖥 Demo
 
-gif 시연 내용 추가
-
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/104156381/213342062-ce57dd50-c3b8-42aa-87fc-619c04595792.gif)
 
 ---
